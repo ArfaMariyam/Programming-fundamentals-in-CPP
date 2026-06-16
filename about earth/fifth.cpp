@@ -1,11 +1,8 @@
 #include <iostream>
 using namespace std;
-
 int main ()
 {
-    int f;
-    f=7;
-    f=3;
-    cout <<"the value of f is"<<f;
+    cout << "threr are many people in the world" << endl;
+
     return 0;
 }
