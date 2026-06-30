@@ -18,7 +18,7 @@ cout<<"\n\t\t\t  1. Arrival of a Bike\t\t\t  6. Departure of Bike";
 cout<<endl;
 cout<<"\n\t\t\t  1. Arrival of a Car\t\t\t  6. Departure of Car";
 cout<<endl;
-
+cout<<"\n\t\t\t  ";
 }
 
 int main()
